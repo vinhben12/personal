@@ -1,5 +1,5 @@
 alert(
-  'Persona Journey Snippet by HappyCuanAirdrop \nSubscribe: https://t.me/HappyCuanAirdrop'
+  'Chúc ae bú kèo'
 );
 
 function clickElement(element) {
